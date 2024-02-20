@@ -111,6 +111,13 @@ a:hover {
   .intro h1 span {
     font-size: 47px; }
 
+.education .education-list {
+  margin-left: 0px; }
+  .education .education-list li {
+    list-style: none;
+    font-size: 0.9375em;
+    color: #8c8c8c; }
+
 .work .work-list {
   margin-left: 0px; }
   .work .work-list li {
