@@ -1,5 +1,6 @@
 # DerekJones
 This is a template for my static website resume taken from Draco. (see below)
+favicon generated from [favicon generator](https://realfavicongenerator.net)
 
 # Draco
 A free PSD & HTML resume template.
