@@ -117,6 +117,8 @@ a:hover {
     list-style: none;
     font-size: 0.9375em;
     color: #8c8c8c; }
+  .education .education-list li:first-child {
+  color: #4e4e4e; }
 
 .work .work-list {
   margin-left: 0px; }
